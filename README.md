@@ -1,4 +1,4 @@
-# Comment-Scraper
+# SwimSwam Article Comment Scraper
 
 ## Introduction
 
